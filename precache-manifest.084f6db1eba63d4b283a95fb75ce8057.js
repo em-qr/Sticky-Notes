@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4e2218503e22a3650057",
-    "url": "https://em-qr.github.io/csb-ij6jq/static/css/main.36c0db2d.chunk.css"
+    "revision": "7732dadb78779da9812e",
+    "url": "https://em-qr.github.io/csb-ij6jq/static/css/main.17aa5e43.chunk.css"
   },
   {
-    "revision": "4e2218503e22a3650057",
-    "url": "https://em-qr.github.io/csb-ij6jq/static/js/main.45ddc6eb.chunk.js"
+    "revision": "7732dadb78779da9812e",
+    "url": "https://em-qr.github.io/csb-ij6jq/static/js/main.cc88031b.chunk.js"
   },
   {
     "revision": "9c15604ec9880ce8ada4",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "https://em-qr.github.io/csb-ij6jq/static/js/2.28d8c36f.chunk.js"
   },
   {
-    "revision": "0e60fa8bb4f2e4488ae04739b18b5756",
+    "revision": "7e0d81a33763744f77cb2c65d8df6be8",
     "url": "https://em-qr.github.io/csb-ij6jq/index.html"
   }
 ];
